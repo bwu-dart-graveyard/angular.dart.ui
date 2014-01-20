@@ -1,4 +1,6 @@
 angular.dart.ui
 ===============
 
-Dart port of Angular UI
+Dart port of JavaScript Angular UI 
+
+Development is going on at https://github.com/akserg/angular.dart.ui
